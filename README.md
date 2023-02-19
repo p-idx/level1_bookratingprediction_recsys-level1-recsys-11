@@ -1,3 +1,5 @@
+## [[개인 회고 및 동료 피드백 키워드]](https://github.com/p-idx/level1_bookratingprediction_recsys-level1-recsys-11/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9D%B8-%ED%9A%8C%EA%B3%A0-%EB%B0%8F-%EB%8F%99%EB%A3%8C-%ED%94%BC%EB%93%9C%EB%B0%B1-%ED%82%A4%EC%9B%8C%EB%93%9C)
+
 # Book Rating Prediction
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white">
